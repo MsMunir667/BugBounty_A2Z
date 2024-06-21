@@ -24,15 +24,14 @@ Happy hunting !
 
 
 ## <a name="Recon_on_wildcard_domain">Recon on wildcard domain</a>  
-This recon process is from [0xpatrick subdomain enumeration workflow](https://0xpatrik.com/subdomain-enumeration-2019/)
 
 - [ ] Run Amass
 - [ ] Run Subfinder
+- [ ] Run sublist3r
 - [ ] Run Rapid7 FDNS
 - [ ] Use commonspeak2 list
 - [ ] Run massdns
-- [ ] Run altdns
-- [ ] Run massdns
+- [ ] Run altdns ( Dns Brute Forcing) 
 
 
 ## <a name="Single_domain">Single Domain</a>  
